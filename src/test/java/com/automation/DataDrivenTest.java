@@ -76,7 +76,7 @@ public class DataDrivenTest {
 
             } else {
 
-                // Wait briefly for the error message to appear
+                
                 org.openqa.selenium.support.ui.WebDriverWait wait =
                     new org.openqa.selenium.support.ui.WebDriverWait(
                         driver,
